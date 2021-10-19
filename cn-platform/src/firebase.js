@@ -3,13 +3,6 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAPTUtXrRvvMGRctolLcA1aXupxPjsk9sg",
-  authDomain: "cn-platform-bf548.firebaseapp.com",
-  databaseURL: "https://cn-platform-bf548-default-rtdb.firebaseio.com",
-  projectId: "cn-platform-bf548",
-  storageBucket: "cn-platform-bf548.appspot.com",
-  messagingSenderId: "738725706734",
-  appId: "1:738725706734:web:0261f6e92b7322ddd06cff"
 };
 
 firebase.initializeApp(firebaseConfig);
